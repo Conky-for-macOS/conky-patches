@@ -1,7 +1,7 @@
-diff --git a/Users/npyl/Desktop/ConkyPlatformChecks.cmake b/Users/npyl/Manage-Conky/ConkyX/conky-for-macOS/cmake/ConkyPlatformChecks.cmake
+diff --git a/cmake/ConkyPlatformChecks.cmake b/Users/npyl/Desktop/ConkyPlatformChecks.cmake
 index 801d9243..32504b5c 100644
---- a/Users/npyl/Desktop/ConkyPlatformChecks.cmake
-+++ b/Users/npyl/Manage-Conky/ConkyX/conky-for-macOS/cmake/ConkyPlatformChecks.cmake
+--- a/cmake/ConkyPlatformChecks.cmake
++++ b/Users/npyl/Desktop/ConkyPlatformChecks.cmake
 @@ -154,10 +154,16 @@ if(BUILD_MATH)
  endif(BUILD_MATH)
  
